@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I am Gyanendra Chaubey 👋
 
 <!--
 **GyanendraChaubey/GyanendraChaubey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working as Business Intelligence Developer, Researcher and Teacher.
+- 🌱 I’m currently learning new concepts/researchs in Machine Learning.
+- 👯 I’m looking to collaborate on research work in Machine Learning or AI.
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about how to write and publish research papers in AI.
+- 📫 How to reach me: https://www.linkedin.com/in/gyanendrachaubey/
+- 😄 Pronouns: Gyan
+- ⚡ Fun fact: I spend about 12 hours daily to work.
+
