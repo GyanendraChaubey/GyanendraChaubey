@@ -11,5 +11,4 @@ Here are some ideas to get you started: -->
 - 💬 Ask me about how to write and publish research papers in AI.
 - 📫 How to reach me: https://www.linkedin.com/in/gyanendrachaubey/
 - 😄 Pronouns: Gyan
-- ⚡ Fun fact: I spend about 12 hours daily to work.
 
