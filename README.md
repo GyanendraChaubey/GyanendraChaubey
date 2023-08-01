@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working as Business Intelligence Developer, Researcher and Mentor.
+- 🔭 I’m currently pursuing M.Tech from Indian Institute of Technology, Jodhpur, Rajasthan. 
 - 🌱 I’m currently learning about interpretability and explainability of Machine Learning.
 - 👯 I’m looking to collaborate on research work in Machine Learning or AI. <!--- 🤔 I’m looking for help with Deep learning and NLP.-->
 - 💬 Ask me about how to write and publish research papers in AI.
