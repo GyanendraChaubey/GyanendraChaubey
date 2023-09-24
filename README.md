@@ -13,3 +13,5 @@ Here are some ideas to get you started: -->
 - ✨ Portfolio: https://gyanendrachaubey.github.io/
 - 😄 Pronouns: Gyan
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GyanendraChaubey&label=Profile%20views&color=0e75b6&style=flat-square" alt="GyanendraChaubey" /> </p>
+
