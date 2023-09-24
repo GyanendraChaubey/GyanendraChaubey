@@ -9,14 +9,13 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently learning about interpretability and explainability of Machine Learning.
 - 👯 I’m looking to collaborate on research work in Machine Learning or AI. <!--- 🤔 I’m looking for help with Deep learning and NLP.-->
 - 💬 Ask me about how to write and publish research papers in AI.
-- 📫 How to reach me: https://www.linkedin.com/in/gyanendrachaubey/
 - ✨ Portfolio: https://gyanendrachaubey.github.io/
 - 😄 Pronouns: Gyan
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gyanendrachaubey/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolaiai" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/GyanendraChaubey-IITJodhpur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nicolainielsenai" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/GyanendraChaubey-IIT Jodhpur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nicolainielsenai" height="30" width="40" /></a>
 </p>
 
 
