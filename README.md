@@ -6,8 +6,8 @@
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently pursuing M.Tech from Indian Institute of Technology, Jodhpur, Rajasthan. 
-- 🌱 I’m currently learning about interpretability and explainability of Machine Learning.
-- 👯 I’m looking to collaborate on research work in Machine Learning or AI. <!--- 🤔 I’m looking for help with Deep learning and NLP.-->
+- 🌱 I’m currently working in Deep Learning and Computer Vision. Also, looking for LLMs, LVMs and other foundational models. If you want to collaborate do reach out to me.
+- 👯 I’m looking to collaborate on research work in Deep Learning, Computer Vision, LLMs, and LVMs. <!--- 🤔 I’m looking for help with Deep learning and NLP.-->
 - 💬 Ask me about how to write and publish research papers in AI.
 - ✨ Portfolio: https://gyanendrachaubey.github.io/
 - 😄 Pronouns: Gyan
