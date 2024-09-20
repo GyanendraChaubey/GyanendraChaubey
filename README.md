@@ -9,7 +9,7 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently working in Deep Learning and Computer Vision. Also, looking for LLMs, LVMs and other foundational models. If you want to collaborate do reach out to me.
 - 👯 I’m looking to collaborate on research work in Deep Learning, Computer Vision, LLMs, and LVMs. <!--- 🤔 I’m looking for help with Deep learning and NLP.-->
 - 💬 Ask me about how to write and publish research papers in AI.
-- ✨ Portfolio: https://gyanendrachaubey.github.io/
+- ✨ Portfolio: https://gyanendrachaubey.github.io/portfolio
 - 😄 Pronouns: Gyan
 
 <h3 align="left">Connect with me:</h3>
